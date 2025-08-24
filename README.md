@@ -37,5 +37,5 @@
 
 ![bhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhyn&show_icons=true&theme=default)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=10amykim)](https://solved.ac/profile/10amykim)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=10amykim)](https://solved.ac/10amykim)
 
