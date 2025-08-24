@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Bohyun Kim.
 
-🎓 I am currently studying Software Engineering at Chung-Ang University.
-🌱 I am a frontend developer currently interested in web and mobile app development.
+- 🎓 I am currently studying Software Engineering at Chung-Ang University.
+- 🌱 I am a frontend developer currently interested in web and mobile app development.
 
 ---
 
