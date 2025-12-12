@@ -1,6 +1,6 @@
 ## 안녕하세요? 
 
-- 🎓 currently studying Software Engineering at Chung-Ang University.
+- 🎓 currently studying Computer Science & Engineering at Chung-Ang University.
 - 🌱 frontend & backend developer currently interested in web development using React and Node.js.
 
 
