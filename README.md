@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Bohyun Kim.
+## 안녕하세요? 
 
-- 🎓 I am currently studying Software Engineering at Chung-Ang University.
-- 🌱 I am a frontend & backend developer currently interested in web development using React and Node.js.
+- 🎓 currently studying Software Engineering at Chung-Ang University.
+- 🌱 frontend & backend developer currently interested in web development using React and Node.js.
 
 
 
@@ -61,11 +61,3 @@
 </p>
 
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhyn&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhyn&show_icons=true)
-
-
-
-## 🧠 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=10amykim)](https://solved.ac/10amykim)
