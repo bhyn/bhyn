@@ -9,7 +9,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/c-3178C6?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-3178C6?style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -29,7 +29,10 @@
 
 <p>
     <img src="https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-F7DF1E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
 
 </p>
 
@@ -42,8 +45,7 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Adobe Illustrator-orange?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
-
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=tokyonight)
