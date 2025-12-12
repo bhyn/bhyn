@@ -40,7 +40,7 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Illustrator-F05032?style=for-the-badge&logo=Illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Illustrator-F05032?style=for-the-badge&logo=adobeIllustrator&logoColor=white">
 
 </p>
 
