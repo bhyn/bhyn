@@ -9,6 +9,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/c-3178C6?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-3178C6?style=for-the-badge&logo=c++&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -28,6 +29,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon AWS-F7DF1E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 
 </p>
 
@@ -40,7 +42,7 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Illustrator-F05032?style=for-the-badge&logo=adobeIllustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Illustrator-orange?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
 
 </p>
 
