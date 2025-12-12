@@ -39,6 +39,11 @@
 
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Illustrator-F05032?style=for-the-badge&logo=Illustrator&logoColor=white">
+
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=tokyonight)
 
 ![bhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhyn&show_icons=true&theme=default)
