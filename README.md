@@ -1,4 +1,4 @@
-## 안녕하세요? 
+## 안녕하세요? 저는 이것저것 배우고 있습니다.
 
 제가 프로그래밍할 수 있는 언어는
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -15,18 +15,20 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-를 할 수 있습니다.
+로 프로젝트를 해 본 경험이 있습니다. 
 
 백엔드 관련해서는
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-를 다룰 수 있습니다.
+를 써서 프로젝트를 해 본 경험이 있습니다.
+프로젝트 경험은 없지만 <img src="https://img.shields.io/badge/SpringBoot-FF0000?style=flat-square&logo=SpringBoot&logoColor=white"/>
+도 배우고 있습니다.
 
 디자인 툴로는
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe&logoColor=white"/>
-를 다룰 수 있습니다.
+로 포스터, 네컷 프레임 디자인을 한 경험이 있습니다.
 
 협업 툴로
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
