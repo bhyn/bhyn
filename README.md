@@ -7,7 +7,7 @@
 ## Frontend
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> </p>
 
-- 밴드 음악 추천, 커뮤니티 앱 프론트엔드 개발 (React Native)
+- [2025.07~08] 밴드 음악 추천, 커뮤니티 앱 프론트엔드 개발 (React Native)
   https://github.com/bhyn/Bandnol-Front
 
 ## Backend
@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> </p>
 
 
-- 옷장 관리, 코디 기록 앱 백엔드 개발 (Node.js)
+- [2026.01~02] 옷장 관리, 코디 기록 앱 백엔드 개발 (Node.js)
   https://github.com/bhyn/wearly-backend
 
-- 의류 크롤링, 검색, 데이터 관리 (FastAPI)
+- [2026.02] 의류 크롤링, 검색, 데이터 관리 (FastAPI)
   https://github.com/bhyn/cau_hackerton2026
 
 
