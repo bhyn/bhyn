@@ -25,7 +25,7 @@
 ## Design
 <p> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> </p>
 
-- [2025.03~05] 중앙대학교 축제 포스터 및 네컷 프레임 디자인 제작 (Illustrator) https://github.com/bhyn/2025-LUCAUS
+- [2025.03~05] 중앙대학교 축제 포스터 및 네컷 프레임 디자인 제작 (Photoshop, Illustrator) https://github.com/bhyn/2025-LUCAUS
 
 ## Collaboration Tools
 <p> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> </p>
