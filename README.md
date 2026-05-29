@@ -20,6 +20,7 @@
 - [2026.02] 의류 크롤링, 검색, 데이터 관리 (FastAPI)
   https://github.com/bhyn/cau_hackerton2026
 - [2026.03~06] 3D 뷰어를 결합한 공간 예약 앱 StayView 백엔드 개발 (SpringBoot)
+  https://github.com/26-SE-Team/backend
 
 
 ## Design
