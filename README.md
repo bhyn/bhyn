@@ -1,5 +1,14 @@
 안녕하세요! 👋 
-중앙대학교 소프트웨어학과 3학년에 재학 중인 김보현입니다. 제가 사용할 수 있는 기술과 관련된 프로젝트 경험은 다음과 같습니다. 
+중앙대학교 소프트웨어학부 3학년에 재학 중인 김보현입니다.
+Frontend, Backend, Computer Systems 분야의 프로젝트를 경험했으며, 최근에는 학부연구생으로 Serverless Computing과 Robotics 관련 프로젝트를 진행했습니다.
+
+## Research & Systems
+
+- [2026.06~08] Chung-Ang University Computer Systems Lab (CSLAB) Undergraduate Researcher
+  - Studied Serverless Computing, FaaS, VM, containers, and cold start through paper reviews and seminars
+  - Implemented a 3D rigid registration module for a robotic arm project
+  - Estimated rotation and translation between CAD and observed coordinates using SVD
+  - Calculated registration errors and transformed CAD hole positions into real-world coordinates
 
 ## Languages
 <p> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> </p>
