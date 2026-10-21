@@ -1,7 +1,7 @@
 Hi! 👋
 I'm **Bohyun Kim**, a third-year Software Engineering student at Chung-Ang University.
 
-I have worked on projects across **Frontend, Backend, and Computer Systems**, and recently worked as an undergraduate researcher on **Serverless Computing and Robotics** projects.
+I have worked on projects across **Frontend, Backend, Computer Systems, and Edge AI**, and recently worked as an undergraduate researcher on **Serverless Computing and Robotics** projects.
 
 ## Research & Systems
 
@@ -11,6 +11,19 @@ I have worked on projects across **Frontend, Backend, and Computer Systems**, an
   * Implemented a **3D rigid registration module** for a robotic arm project
   * Estimated rotation and translation between CAD and observed coordinate systems using **SVD**
   * Calculated registration errors and transformed CAD-based hole positions into real-world coordinates
+
+## Embedded & Edge AI
+
+<p>
+<img src="https://img.shields.io/badge/Arm Cortex--M55-0091BD?style=flat-square&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethos--U85 NPU-0091BD?style=flat-square&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ExecuTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+</p>
+
+* **[2026.10] Fingerspell** 🥈 *2nd Place, Arm + ExecuTorch Edge AI Challenge* — Offline, on-device ASL fingerspelling-to-text translator on the Alif Ensemble E8 (Cortex-M55 + Ethos-U85). Two MediaPipe hand models run fully on the NPU at 15–16 fps with a keypoint MLP classifier on the CPU. Built the on-device LCD UI in C (camera feed, hand skeleton, confidence bars, decoded text)
+  https://github.com/erictweng/CMSIS-Executorch/tree/landmark/pipeline
 
 ## Languages
 
