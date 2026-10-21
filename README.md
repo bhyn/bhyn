@@ -62,7 +62,7 @@ I have worked on projects across **Frontend, Backend, Computer Systems, and Edge
 * **[2026.01–Present] Wearly** — Backend development for a digital wardrobe and outfit management app using Node.js
   https://github.com/Melonging/wearly-backend
 
-* **[2026.02] What Should I Wear?** — Clothing data crawling, natural-language search, and data management using FastAPI
+* **[2026.02] What Should I Wear?** 🥉 *3nd Place, Hackathon* — Clothing data crawling, natural-language search, and data management using FastAPI
   https://github.com/bhyn/cau_hackerton2026
 
 * **[2026.03–06] StayView** — Backend development for a space reservation platform with a 3D viewer using Spring Boot
