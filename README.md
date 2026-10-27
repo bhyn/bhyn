@@ -78,7 +78,7 @@ I have worked on projects across **Frontend, Backend, Computer Systems, Edge AI,
   https://github.com/Melonging/wearly-backend
 
 * **[2026.02] What Should I Wear?** 🥉 *3rd Place, Hackathon* — Clothing data crawling, natural-language search, and data management using FastAPI
-  https://github.com/bhyn/cau_hackerton2026
+  https://github.com/bhyn/whatshouldiwear
 
 * **[2026.03–06] StayView** — Backend development for a space reservation platform with a 3D viewer using Spring Boot
   https://github.com/26-SE-Team/backend
