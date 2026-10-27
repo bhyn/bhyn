@@ -1,7 +1,7 @@
 Hi! 👋
 I'm **Bohyun Kim**, a third-year Software Engineering student at Chung-Ang University.
 
-I have worked on projects across **Frontend, Backend, Computer Systems, and Edge AI**, and recently worked as an undergraduate researcher on **Serverless Computing and Robotics** projects.
+I have worked on projects across **Frontend, Backend, Computer Systems, Edge AI, and AI Agents**, and recently worked as an undergraduate researcher on **Serverless Computing and Robotics** projects.
 
 ## Research & Systems
 
@@ -23,7 +23,22 @@ I have worked on projects across **Frontend, Backend, Computer Systems, and Edge
 </p>
 
 * **[2026.10] Fingerspell** 🥈 *2nd Place, Arm + ExecuTorch Edge AI Challenge* — Offline, on-device ASL fingerspelling-to-text translator on the Alif Ensemble E8 (Cortex-M55 + Ethos-U85). Two MediaPipe hand models run fully on the NPU at 15–16 fps with a keypoint MLP classifier on the CPU. Built the on-device LCD UI in C (camera feed, hand skeleton, confidence bars, decoded text)
-  https://github.com/erictweng/CMSIS-Executorch/tree/landmark/pipeline
+  https://github.com/bhyn/CMSIS-Executorch
+
+## AI Agents & Fintech
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fetch.ai uAgents-3F1DCB?style=flat-square"/>
+<img src="https://img.shields.io/badge/CRS Sandbox-1F2937?style=flat-square"/>
+</p>
+
+* **[2026.10] AgentCircuit** — *Cal Hacks 13.0* — Air traffic control for AI agents. A control layer between autonomous agents and sensitive resources: signed agent identity, role permissions, request deduplication, shared-budget reservation, and an x402 spending guard, demoed with three Fetch.ai agents against the CRS credit-bureau sandbox
+  https://github.com/bhyn/AgnetCircuit
+
+* **[2026.10] Netflow Simulator** — *Cal Hacks 13.0 (CRS challenge)* — Trade-terms and cash-flow simulator for sole proprietors. Runs a 3,000-future Monte Carlo over prepayment, due dates, and partner risk derived from live CRS sandbox credit evidence
+  https://github.com/bhyn/netflow-simulator
 
 ## Languages
 
@@ -62,7 +77,7 @@ I have worked on projects across **Frontend, Backend, Computer Systems, and Edge
 * **[2026.01–Present] Wearly** — Backend development for a digital wardrobe and outfit management app using Node.js
   https://github.com/Melonging/wearly-backend
 
-* **[2026.02] What Should I Wear?** 🥉 *3nd Place, Hackathon* — Clothing data crawling, natural-language search, and data management using FastAPI
+* **[2026.02] What Should I Wear?** 🥉 *3rd Place, Hackathon* — Clothing data crawling, natural-language search, and data management using FastAPI
   https://github.com/bhyn/cau_hackerton2026
 
 * **[2026.03–06] StayView** — Backend development for a space reservation platform with a 3D viewer using Spring Boot
